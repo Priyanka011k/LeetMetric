@@ -3,9 +3,7 @@
 **LeetMetric** is a lightweight dashboard and analytics tool that helps you track your progress on [LeetCode](https://leetcode.com).
 Whether you're preparing for coding interviews or just practicing daily, LeetMetric provides clear insights into your coding journey.
 
-![LeetMetric Dashboard Screenshot](./assets/dashboard-screenshot.png)
 
----
 
 ## 🚀 Features
 
